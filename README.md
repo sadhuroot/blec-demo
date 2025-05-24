@@ -13,7 +13,7 @@
 
 **Advanced BLE Security Research & Penetration Testing Framework**
 
-[Features](#-features) • [Hardware](#-hardware-testing) • [Installation](#-installation) • [Usage](#-usage) • [Documentation](#-documentation) • [Contributing](#-contributing)
+[Features](#-features) • [Hardware](#-hardware-testing) • 
 
 </div>
 
