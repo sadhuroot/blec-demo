@@ -561,14 +561,3 @@ The complete workflow from building to command execution:
 │   rpi5-agent        │
 └─────────────────────┘
 ```
-
-
-
-
-
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
